@@ -1,0 +1,6 @@
+{
+  "name": "Proto3D – Interactive 3D Product Showcase",
+  "description": "Explore, rotate, zoom, and customize the Proto X1 precision device in real time with high-fidelity 3D rendering and realistic physical materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
